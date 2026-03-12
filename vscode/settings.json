@@ -3,7 +3,7 @@
     "editor.formatOnPaste": true,
     "editor.formatOnType": false,
     "editor.formatOnSave": true,
-    "editor.formaOnSaveMode": "file",
+    "editor.formatOnSaveMode": "file",
     "files.autoSave": "off" 
 
     
