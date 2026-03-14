@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-                                                        
+import{BannerImage} from '@components'                                                     
 const LoginArea = styled.div `
     background: #333;
 
